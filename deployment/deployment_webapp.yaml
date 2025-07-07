@@ -16,7 +16,7 @@ spec:
         - name: ecrcred
       containers:
         - name: webapp
-          image: 998727131331.dkr.ecr.us-east-1.amazonaws.com/clo835-webapp:latest
+          image: 998727131331.dkr.ecr.us-east-1.amazonaws.com/clo835a2-webapp:latest
           ports:
             - containerPort: 8080
           env:
