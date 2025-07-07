@@ -1,0 +1,5 @@
+# Ignore private SSH keys
+*.pem
+*.key
+clo835-key
+clo835-key.pub
