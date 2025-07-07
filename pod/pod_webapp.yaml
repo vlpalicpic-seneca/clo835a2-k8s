@@ -21,3 +21,5 @@ spec:
           value: "passwors"
         - name: DBPORT
           value: "3306"
+        - name: APP_COLOR
+          value: "lime"
